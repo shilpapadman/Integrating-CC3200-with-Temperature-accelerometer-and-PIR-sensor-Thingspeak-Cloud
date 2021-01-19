@@ -7,8 +7,8 @@
 
 // ThingSpeak Settings
 char thingSpeakAddress[] = "api.thingspeak.com";
-//String writeAPIKey = "JMFU0IPLWE3T5OBO";
-String writeAPIKey = "ASI6MUE81K4Z60PP";
+
+String writeAPIKey = "...............";   // give the write API key of the ThingsSpeak cloud 
 const int updateThingSpeakInterval = 16 * 1000; // Time interval in milliseconds to update ThingSpeak (number of seconds * 1000 = interval)
 
 //buffer for float to string
