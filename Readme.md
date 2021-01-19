@@ -14,3 +14,5 @@ Objectives-
 3) The data is analyzed in graphical and Matlab representation over the Thingspeak cloud.
 4) An alert is also generated when the sensor reading falls out of the threshold values. 
 5) The project also describes the role of temperature monitoring systems in Smart farming, Accelerometer detection in determining tower health, and PIR Motion detection in        security systems
+
+WORKING LINK : https://youtu.be/3_GVMPiacO4
