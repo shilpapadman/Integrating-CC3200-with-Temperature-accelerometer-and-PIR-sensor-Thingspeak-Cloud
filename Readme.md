@@ -1,5 +1,5 @@
 
-***Texas Instrument's CC3200 Microcontroller with Sensors and ThingSpeak Cloud...... ***
+***Texas Instrument's CC3200 Microcontroller with Sensors and ThingSpeak Cloud......***
 
 
 Abstract-
